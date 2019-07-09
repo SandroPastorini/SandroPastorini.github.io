@@ -2,4 +2,4 @@
 
 ## Links:
 
-- [wiki](https://sandropastorini-wikijs.herokuapp.com)
+- [wiki](https://104.238.136.183)
